@@ -3,8 +3,8 @@ public class MathClass {
 
 	public static void main(String[] args) {
 
-		double x = 28;    
-        double y = 4;    
+		double x = 45;    
+        double y = 8;    
           
         // return the maximum of two numbers  
         System.out.println("Maximum number of x and y is: " +Math.max(x, y));   
